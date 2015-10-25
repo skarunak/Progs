@@ -1,2 +1,2 @@
 # Progs
-My scratch programs
+Directory of my timepass programs
